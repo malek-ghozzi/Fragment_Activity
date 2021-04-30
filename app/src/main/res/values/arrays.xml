@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pieces">
+        <item>Chess Piece - King</item>
+        <item>Chess Piece - Queen</item>
+        <item>Chess Piece - Bishop</item>
+        <item>Chess Piece - Knight</item>
+        <item>Chess Piece - Rook</item>
+        <item>Chess Piece - Pawn</item>
+
+    </string-array>
+
+    <string-array name="Descriptions">
+        <item>The king  is the most important piece in the game of chess.If a players king is threatened with capture, it is said to be in check, and the player must remove the threat of capture on the next move. If this cannot be done, the king is said to be in checkmate, resulting in a loss for that player. Players cannot make any move that places their own king in check. Although the king is the most important piece, it is one of the weakest pieces in the game outside of the endgame.</item>
+        <item>The Queen is the most powerful piece in the game of chess, able to move any number of squares vertically, horizontally or diagonally, combining the power of the rook and bishop. </item>
+        <item>The bishop is a piece in the game of chess. Each player begins the game with two bishops. One starts between the kings knight and the king, the other between the queens knight and the queen.</item>
+        <item>The knight is a piece in the game of chess and is represented by a horses head and neck. Each player starts with two knights, which are located between the rooks and bishops in the standard starting position.</item>
+        <item>The rook is a piece in the game of chess resembling a castle.</item>
+        <item>The pawn is the most numerous piece in the game of chess and, in most circumstances, the weakest.</item>
+    </string-array>
+</resources>
